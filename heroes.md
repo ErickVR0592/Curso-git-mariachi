@@ -9,3 +9,7 @@
 * Cybort
 * Spider Man
 * Iron Man
+* Lava girl
+* Ant man
+* Thor
+
